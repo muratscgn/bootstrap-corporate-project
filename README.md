@@ -16,5 +16,7 @@ CANLI DEMO: https://bootstrap-corporate-project.vercel.app/
 
 # Preview
 
+https://github.com/muratscgn/bootstrap-corporate-project/assets/124501558/ea20e7c1-3066-47bf-baa6-ec84d56a30c9
+
 
 
